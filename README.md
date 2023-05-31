@@ -1,5 +1,3 @@
-# holamundoReact
-
 # Trabajo Practico React 
 Primer Ejercicio de React Hola Mundo!!
 
